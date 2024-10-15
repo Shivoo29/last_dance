@@ -32,8 +32,8 @@ This project is an advanced Attendance Management System that uses AI for facial
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/attendance-management-system.git
-   cd attendance-management-system
+   git clone https://github.com/Shivoo29/last_dance
+   cd last_dance
    ```
 
 2. Set up and activate a Python virtual environment:
