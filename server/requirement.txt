@@ -1,0 +1,16 @@
+# Python dependencies
+Flask==2.0.1
+Flask-SQLAlchemy==2.5.1
+Flask-CORS==3.0.10
+face-recognition==1.3.0
+Werkzeug==2.0.1
+numpy==1.21.0
+requests==2.26.0
+psycopg2-binary==2.9.1
+
+# Node.js dependencies are managed in package.json
+
+# Go dependencies
+# Use `go mod init` and `go mod tidy` to manage dependencies
+
+# Rust dependencies are managed in Cargo.toml
